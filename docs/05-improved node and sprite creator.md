@@ -20,7 +20,7 @@
   
   ```
 
-1. cc.gray(sprite)
+1. cc.decolourize(sprite)
 
   将一个精灵图片或文字灰度化
   
